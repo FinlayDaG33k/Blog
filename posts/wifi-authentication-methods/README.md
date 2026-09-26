@@ -105,13 +105,14 @@ However, since IoT devices generally aren't known for their security, I recommen
 
 There is no definitive answer to this as it all depends on which authentication methods you use but here are some general pointers.
 
-| Method | Cipher | Notes |
-|--------|--------|-------|
-| WPA2-PSK | CCMP | |
-| WPA2-EAP | CCMP | |
-| WPA3-PSK | CCMP | 802.11be-spec (WiFi 8) supports GCMP-256 as well |
-| WPA3-EAP | GCMP | |
-| WPA3-EAP192 | GCMP-256| |
+| Method        | Cipher  | Notes |
+|---------------|---------|-------|
+| WPA2-PSK      | CCMP    | |
+| WPA2-PSK SHA2 | CCMP    | |
+| WPA2-EAP      | CCMP    | |
+| WPA3-PSK      | CCMP    | 802.11be-spec (WiFi 8) supports GCMP-256 as well |
+| WPA3-EAP      | GCMP    | |
+| WPA3-EAP192   | GCMP-256 | |
 
 Some combinations may simply not work and your devices won't be able to connect.  
 One such example is trying to use CCMP 256 on WPA2, which again is a lie, so proceed to ignore it.  
