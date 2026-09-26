@@ -25,8 +25,8 @@ To make it easier to work with, I created a little spreadsheet in [LibreOffice](
 The app also tells me how much points I earn, which is 10 points per euro spent and it seems to be rounding _up_ (eg. `9.95` becomes `100` points).  
 Which I entered on a different sheet.
 
-![](img/Screenshot_20260129-164756_McDonald's.png)  
-![](img/soffice.bin_nGC0ru80NW.png)
+<img src="img/Screenshot_20260129-164756_McDonald's.png" width="200" />
+<img src="img/soffice.bin_nGC0ru80NW.png" width="200" />
 
 Now I could easily calculate how much euro I had to spend in order to accumulate the required points.  
 This is technically not really important to be displayed since my head is at least *somewhat* capable of doing mental arithmetic, but it might be nice in case it changes (eg. every euro gives only 9 points).
@@ -44,9 +44,10 @@ Which I then promptly forgot to do...
 As a saving grace, they still had a "manual order" counter with a pricelist on the wall behind it!  
 So I took some quick pictures of that instead.
 
-![](img/20260127_231608.jpg)
-![](img/20260127_231614.jpg)
-![](img/20260127_231620.jpg)
+<img src="img/20260127_231608.jpg" width="200" />
+<img src="img/20260127_231614.jpg" width="200" />
+<img src="img/20260127_231620.jpg" width="200" />
+
 
 So let's enter that into the spreadsheet too!
 
@@ -60,7 +61,7 @@ Now I had to calculate how efficient each of the items were, which is very simpl
 Simply divide the menu cost of the item with the cost it requires to accumulate the points (eg. the hamburger would become `1.80 / 30`).
 This gave me the following table:
 
-![](img/soffice.bin_nbIkEXdsHK.png)
+![](img/soffice.bin_nbIkEXdsHK.png | width=100)
 
 ## Conclusions
 
