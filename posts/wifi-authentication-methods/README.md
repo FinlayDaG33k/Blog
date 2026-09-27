@@ -140,3 +140,6 @@ Will I ever make another post again?
 Who knows, but at least you've learned some new words to bully your colleagues with when playing hangman.
 
 Thanks for reading!
+
+## Important discussions
+* [WPA3 and SAE](https://github.com/FinlayDaG33k/Blog/discussions/6)
