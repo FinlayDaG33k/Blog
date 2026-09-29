@@ -1,4 +1,4 @@
-# MikroTik:  Blocking Common Ports
+# MikroTik: Blocking Common Ports
 
 Port scanners and bots trying to force their way into an exposed system are quite common on the internet.  
 As such, it is a good idea to not expose ports to the internet unless you have a good reason to.
