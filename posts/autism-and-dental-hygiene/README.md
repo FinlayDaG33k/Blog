@@ -5,6 +5,9 @@ In part because it just doesn't fit well in my routines, requiring a "dedicated 
 While I luckily am not very prone to cavities, it did cause my gums to recede more than they should have.
 In the long term, this will cause sensitivity as well as likely cause premature loss of teeth.
 
+However, I have tested a lot of things over time that make it so I now have an "okay-ish" dental hygiene.  
+The dentist still says it's not good but she also admits that it's a lot better than she has seen from me, so we take that as a victory! <img src="../../emotes/kannayay2.webp"  width="16">
+
 **NOTE**: Autism can be very broad and doesn't affect everyone the same way.  
 As a result, this is not 100% guarranteed to work.  
 This is simply what worked to help improve the situation for me and my partner.
@@ -18,7 +21,7 @@ If you want to be 100% sure, check with your dentist.
 ## Change your toothpaste
 
 Toothpaste (or toothgel, I call them both the same) is often the first problematic thing when it comes to dental hygiene.  
-A lot of toothpaste aimed at general adults have a strong minty flavour and smell.  
+A lot of toothpaste aimed at general adults have a strong minty flavour and smell (because yay, marketing).  
 However, it was this exact strong mintyness that made me dislike it since it lingers too long (often for hours), so I wanted to try something less minty.  
 The problem is that this generally leaves me at "children's toothpaste", especially if I want to be able to just walk to the store and get a new tube, rather than having to scour the internet to order something.  
 However, since the needs of children are _generally_ different than those of _adults_, formulations may differ in key points.  
@@ -88,6 +91,8 @@ For this, I have the following candidates in direct access:
 ## Change your toothbrush
 
 ## Interdental hygiene
+
+## Get something resembling a schedule
 
 ## Dentist visits
 
