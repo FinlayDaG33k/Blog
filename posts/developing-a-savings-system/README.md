@@ -1,4 +1,7 @@
-# Saving
+# Developing a savings system
+
+You hear it everywhere, people having issues paying their bills, going in debts just to make it to the end of the month.  
+Yet, when you then look 
 
 **DISCLAIMER**: This is not financial advice nor am I a financial advisor or licensed.  
 This is merely me sharing the savings system I have come up with and use.
@@ -34,7 +37,7 @@ I didn't quite understand it but ***SAVING***.
 Between that time (age 7) and my late-teens (age 19), nothing all that much changed.  
 Just the amount of money I had (due to starting a job) and the pricetag on the stuff I wanted.  
 Computer parts, cameras, networking equipment, a driver's license etc. etc.  
-Occasionally, I would spend some money on something smaller (like a dinner with my gf at the time) but generally, I would just save up until I had enough for something big.  
+Occasionally, I would spend some money on something smaller (like a dinner with my gf at the time) but generally, I would just save up until I had enough for something relatively big.  
 
 ## An Issue arrives
 
