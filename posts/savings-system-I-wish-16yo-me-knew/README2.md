@@ -21,10 +21,13 @@ But this has a few problems that I've encountered when I grew up and life was no
 - What happens when an unexpected bill comes?
 
 Many people do not really know the answers to these, which is why I call it the "naive way" of saving.  
+It doesn't require much thinking but also doesn't work all that well unless you have a lot of room to play with already.
 
 - Deciding how much you save really depends on your income and your bills, which makes it hard to give a fixed amount.  
 - Deciding when to save is easy, "when my pay comes in"... But then they generally won't have enough for the bills.
 - When an unexpected bill comes, that means digging into the phone funds, which kind of defeats the point.
+
+
 
 ## My first system
 
