@@ -120,7 +120,7 @@ There is no definitive answer to this as it all depends on which authentication 
 | WPA2-PSK      | CCMP    |                                    |
 | WPA2-PSK SHA2 | CCMP    |                                    |
 | WPA2-EAP      | CCMP    |                                    |
-| WPA3-PSK      | CCMP    | 802.11be (WiFi 8) demands GCMP-256 |
+| WPA3-PSK      | CCMP    | 802.11be (WiFi 7) demands GCMP-256 |
 | WPA3-EAP      | GCMP    |                                    |
 | WPA3-EAP192   | GCMP-256 |                                    |
 
