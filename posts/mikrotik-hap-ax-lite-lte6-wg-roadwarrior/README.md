@@ -1,4 +1,4 @@
-# MikroTik hAP AX Lite LTE6 - Wireguard Roadwarrior
+# MikroTik: hAP AX Lite LTE6 Wireguard Roadwarrior
 
 Since I work as a truck driver, I'm on the road quite a lot.  
 However, breaks are a *huge* pain for me.
